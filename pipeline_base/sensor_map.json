@@ -1,0 +1,16 @@
+{
+  "84:CC:A8:12:34:56": "pelvis",
+  "84:CC:A8:12:34:57": "lumbar",
+  "84:CC:A8:12:34:58": "thoracic",
+  "84:CC:A8:12:34:59": "sternum",
+  "84:CC:A8:12:34:60": "right_thigh",
+  "84:CC:A8:12:34:61": "left_thigh",
+  "84:CC:A8:12:34:62": "right_tibia",
+  "84:CC:A8:12:34:63": "left_tibia",
+  "84:CC:A8:12:34:64": "right_foot",
+  "84:CC:A8:12:34:65": "left_foot",
+  "84:CC:A8:12:34:66": "right_upper_arm",
+  "84:CC:A8:12:34:67": "left_upper_arm",
+  "84:CC:A8:12:34:68": "right_forearm",
+  "84:CC:A8:12:34:69": "left_forearm"
+}
